@@ -25,4 +25,14 @@ Sistem Informasi RT merupakan aplikasi berbasis web yang dikembangkan untuk mend
 Frontend & Backend Developer
 
 ## Tampilan Aplikasi
-> Screenshot akan ditambahkan.
+### Login
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Data Warga
+![Data Warga](screenshots/data-warga.png)
+
+### Pengaduan
+![Data Warga](screenshots/pengaduan.png)
