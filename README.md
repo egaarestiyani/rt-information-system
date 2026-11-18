@@ -31,8 +31,8 @@ Frontend & Backend Developer
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### Data Warga
-![Data Warga](screenshots/data-warga.png)
+### Mobile Application Preview
+![Parete Mobile](screenshots/paretemobile-preview.jpg)
 
 ### Pengaduan
 ![Data Warga](screenshots/pengaduan.png)
